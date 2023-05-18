@@ -1,0 +1,17 @@
+CREATE TABLE makeup (name TEXT, quantity INTEGER,yearexpired INTEGER, sold INTEGER, price INTEGER);
+
+INSERT INTO makeup VALUES ("eyeliner", 80, 2025, 50, 10);
+INSERT INTO makeup VALUES ("blush", 95, 2025, 42, 10);
+INSERT INTO makeup VALUES ("primer", 82, 2025, 53, 10);
+INSERT INTO makeup VALUES ("foundation", 84, 2025, 44, 20);
+INSERT INTO makeup VALUES ("eyebrow pencil", 80, 2025, 42, 8);
+INSERT INTO makeup VALUES ("concealer", 72, 2025, 38, 15);
+INSERT INTO makeup VALUES ("eyeshadow", 81, 2025, 20, 30);
+INSERT INTO makeup VALUES ("lipstick", 100, 2025, 84, 15);
+INSERT INTO makeup VALUES ("mascara", 105, 2025, 90, 10);
+INSERT INTO makeup VALUES ("highlighter", 60, 2025, 39, 12);
+INSERT INTO makeup VALUES ("setting powder", 87, 2025, 30, 25);
+INSERT INTO makeup VALUES ("lipliner", 100, 2025, 88, 15);
+INSERT INTO makeup VALUES ("setting spray", 50, 2023, 20, 25);
+INSERT INTO makeup VALUES ("bronzer", 88, 2025, 63, 15);
+INSERT INTO makeup VALUES ("lipgloss", 100, 89, 2025, 5);
